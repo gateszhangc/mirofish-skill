@@ -1,5 +1,7 @@
 # MiroFish — Agent Skill
 
+[![skills.sh](https://skills.sh/b/gateszhangc/mirofish-skill)](https://skills.sh/gateszhangc/mirofish-skill)
+
 > AI multi-agent simulation engine for scenario prediction and decision rehearsal.
 
 This repository contains the **MiroFish Agent Skill** (`SKILL.md`) for use with AI coding agents like Cursor, Claude Code, GitHub Copilot, and any MCP-compatible platform.
