@@ -1,13 +1,6 @@
 ---
 name: mirofish-simulation
-description: >
-  AI multi-agent simulation engine for scenario prediction and decision rehearsal.
-  Spawns personas with distinct incentives, biases, and memory to simulate social
-  dynamics over multiple rounds. Use when analyzing campaign outcomes, policy impacts,
-  market reactions, PR crisis scenarios, or any multiplayer situation where human
-  behavior is the key variable. Triggers include scenario simulation, outcome prediction,
-  decision rehearsal, campaign pressure testing, multi-agent analysis, stakeholder
-  simulation, what-if analysis, and scenario planning.
+description: AI multi-agent simulation engine for scenario prediction and decision rehearsal. Spawns personas with distinct incentives, biases, and memory to simulate social dynamics over multiple rounds. Use when analyzing campaign outcomes, policy impacts, market reactions, PR crisis scenarios, or any multiplayer situation where human behavior is key. Triggers: scenario simulation, outcome prediction, decision rehearsal, campaign pressure testing, multi-agent analysis, stakeholder simulation, what-if analysis, scenario planning.
 license: MIT
 compatibility: Web browser, any MCP-compatible agent via API
 metadata:
